@@ -1,0 +1,16 @@
++ {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#plone,
+#pltwo {
+    display: inline-block;
+    margin: 50px;
+    font-size: 18px;
+}
